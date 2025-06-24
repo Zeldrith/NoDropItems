@@ -1,0 +1,22 @@
+name: NoDropItems
+version: 2.8
+main: com.comradeelmo.nodrop.NoDropItemsPlugin
+api-version: 1.21
+author: Comrade_Elmo
+description: A plugin that prevents selected items from dropping on player death and manages them via GUI.
+
+commands:
+  reloadnodrop:
+    description: Reloads the NoDropItems plugin configuration.
+    usage: /reloadnodrop
+    permission: nodrop.reload
+  nodropgui:
+    description: Opens the NoDropItems GUI.
+    usage: /nodropgui
+    permission: nodrop.gui
+
+permissions:
+  nodrop.reload:
+    default: op
+  nodrop.gui:
+    default: op

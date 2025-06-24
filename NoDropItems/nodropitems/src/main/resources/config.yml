@@ -1,0 +1,8 @@
+mode: KEEP
+excluded-items:
+  - DIAMOND_SWORD
+  - DIAMOND_CHESTPLATE
+  - DIAMOND_LEGGINGS
+  - DIAMOND_BOOTS
+  - DIAMOND_HELMET
+included-items: []

@@ -1,0 +1,7 @@
+com\comradeelmo\nodrop\DeathItemFilter.class
+com\comradeelmo\nodrop\ItemGUI.class
+com\comradeelmo\nodrop\ReloadCommand.class
+com\comradeelmo\nodrop\DeathItemFilter$1.class
+com\comradeelmo\nodrop\NoDropCommand.class
+com\comradeelmo\nodrop\NoDropItemsPlugin.class
+com\comradeelmo\nodrop\DeathItemFilter$DropMode.class
